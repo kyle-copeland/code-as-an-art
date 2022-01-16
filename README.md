@@ -23,3 +23,5 @@ By Micah Hawkinson](https://rabbitroom.com/2022/01/on-poetry-programming-chaos-a
 ## Talks
 1. [The poetry of programming by Linda Liukas](https://www.youtube.com/watch?v=-jRREn6ifEQ)
 2. [Patterns in Architecture by Christopher Alexander](https://www.youtube.com/watch?v=98LdFA-_zfA)
+3. [Future of programming by Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4)
+4. [Investing on Principle by Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
